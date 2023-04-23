@@ -19,7 +19,7 @@ JOBS = [
         'id':3,
         'title': 'Mobile Developer',
         'location': 'Wales,UK',
-        'salary': '20000'
+        'salary': '45000'
     },
         {
         'id':4,
